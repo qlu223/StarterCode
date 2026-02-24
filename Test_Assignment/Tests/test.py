@@ -1,6 +1,6 @@
 import unittest
 
-from ProductionCode.sample import *
+from ProductionCode.functions_interface import *
 
 if __name__ == '__main__':
     unittest.main()
