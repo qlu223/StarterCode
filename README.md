@@ -5,7 +5,7 @@ AI Companion Comps group starter code
 ---
 ## Repository Structure 
 
-This repository contains starter code and AI assignments for CS257. 
+This repository contains starter code for CS257. 
 
 ###
 
@@ -20,22 +20,19 @@ This repository contains starter code and AI assignments for CS257.
 
 ### HTML Assignment 
 
-Contains starter code and exercises related to the AI HTML Assignment 
+Contains starter code related to the AI HTML Assignment 
 
 ### CSS Assignment 
 
-Contains starter code and exercises related to AI CSS Assignment 
+Contains starter code related to the AI CSS Assignment 
 
 ### Database Assignment 
 
-Contains starter code and exercises related to the AI Database Assignment 
+Contains starter code related to the AI Database Assignment 
 
 ### Test Assignment 
 
-Contains starter code and exercises related to AI Test Assignments 
+Contains starter code related to AI Test Assignments 
 
-### In-Class Exercises
-
-Contains AI In-Class Exercises 
 
 
